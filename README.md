@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+#고자 판별기 2.0
+#
+이것은 고자 판별기입니다!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+당신이 고자인지 아닌지를 몇 번의 질문만으로 알아낼 수 있습니다.
